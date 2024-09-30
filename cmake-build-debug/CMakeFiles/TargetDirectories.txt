@@ -1,0 +1,3 @@
+C:/Users/tybra/CLionProjects/undo_stack/cmake-build-debug/CMakeFiles/undo_stack.dir
+C:/Users/tybra/CLionProjects/undo_stack/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/tybra/CLionProjects/undo_stack/cmake-build-debug/CMakeFiles/rebuild_cache.dir
